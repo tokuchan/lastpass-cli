@@ -13,3 +13,8 @@ version.h
 # IDE
 /.idea
 /.vs
+CMakeFiles
+CMakeCache.txt
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
