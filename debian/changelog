@@ -1,3 +1,15 @@
+lastpass-cli (1.5.0) unstable; urgency=medium
+
+  * New upstream 1.5.0
+
+ -- Julio Cavalin <julio.cavalin@lastpass.com>  Thu, 16 May 2024 14:53:07 +0000
+
+lastpass-cli (1.4.0) unstable; urgency=medium
+
+  * New upstream 1.4.0
+
+ -- Rui Rafael <rui.rafael@lastpass.com>  Mon, 15 Apr 2024 14:06:52 +0100
+
 lastpass-cli (1.3.7) unstable; urgency=medium
 
   * New upstream 1.3.7
